@@ -151,7 +151,10 @@ footer {
 .modal-inner{
     width: 290px;
     margin: 0 auto;
+}
 
+.modal-inner input {
+    outline: none;
 }
 
 .modal-inner-loading{
