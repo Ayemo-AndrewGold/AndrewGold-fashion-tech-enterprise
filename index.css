@@ -151,6 +151,7 @@ footer {
 .modal-inner{
     width: 290px;
     margin: 0 auto;
+
 }
 
 .modal-inner-loading{
@@ -292,4 +293,12 @@ input{
         width: 95%;
         margin: 0 auto;
     }
+
+    .modal-inner{
+        width: 290px;
+        /* margin: 0 auto; */
+        margin-left: 20px;
+        
+    }
+    
 }
