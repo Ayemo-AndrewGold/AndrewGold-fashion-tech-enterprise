@@ -232,13 +232,14 @@ input{
 }
 
 .idiot-gif{
-    width: 95%;
+    width: 100%;
     margin: 0 auto;
 }
 
 .idiot-gif img{
     box-shadow: 1px 1px 3px #999;
     border-radius: 5px;
+    width: 100%;
 }
 
 

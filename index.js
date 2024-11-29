@@ -48,10 +48,10 @@ consentForm.addEventListener('submit', function(e){
     
     setTimeout(function(){
         document.getElementById('modal-inner').innerHTML = `
-        <h2>Thanks <span class="modal-display-name">${fullName}</span>, you are a spam </h2>
+        <h2>Thanks <span class="modal-display-name">${fullName}</span>, you are not a spam </h2>
         <p>Wecome To AndrewGold's Fashion Tech Enterprise.</p>
         <div class="idiot-gif">
-            <img src="images/pirate.gif">
+            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdndWw3MzQwbGRmMjZzN2w5ZWM5eDI3N211N3VtaHluMnRuMnpkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XD9o33QG9BoMis7iM4/giphy.webp">
         </div>
     `
     modalCloseBtn.disabled = false
